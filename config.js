@@ -1,4 +1,4 @@
-{
+const config = {
   "property": {
     "streetAddress": "2611 25 Street SW",
     "city": "Calgary",
@@ -109,7 +109,7 @@
     }
   ],
   "deploymentInfo": {
-    "repoId": "1008666771",
+    "repoId": "690f9705-0595-454a-9181-0886e65b4037",
     "repoName": "Open-House-546",
     "repoUrl": "https://github.com/arslvn93/Open-House-546",
     "siteId": null
