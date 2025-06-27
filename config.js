@@ -60,10 +60,6 @@ const config = {
         "text": "Photos"
       },
       {
-        "icon": "fas fa-chart-bar",
-        "text": "Recent Neighborhood Sales"
-      },
-      {
         "icon": "fas fa-check-circle",
         "text": "On-Market Comparables"
       }
