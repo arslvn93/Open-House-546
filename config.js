@@ -164,7 +164,7 @@ const config = {
     "repoName": "Open-House-546",
     "repoUrl": "https://github.com/arslvn93/Open-House-546",
     "siteId": null,
-    "netlifyUrl": "",
-    "tag": ""
+    "netlifyUrl": "https://services.leadconnectorhq.com/hooks/KxSrsX5ZH2ZttFjyt9hW/webhook-trigger/EWFVczQeMtLq5D4IVClg",
+    "tag": "2611 25 Street SW - Open House"
   }
 };
