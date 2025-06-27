@@ -40,7 +40,7 @@ const config = {
   },
   "brokerage": {
     "name": "Greater Property Group",
-    "logoUrl": "https://images.squarespace-cdn.com/content/v1/660c7f5e3f51df1e6c0aab7c/dd91471a-e3f6-4173-ac19-a1634b71a7a7/GPG-Logo.png",
+    "logoUrl": "https://www.krisdennis.com/hosted/images/42/9cd6aa092d4140810a82e28adf556d/GPG---No-Tagline-Logo-White-.png",
     "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
   },
   "openHouse": {
