@@ -40,18 +40,33 @@ const config = {
   },
   "brokerage": {
     "name": "Greater Property Group",
-    "logoUrl": null,
+    "logoUrl": "https://images.squarespace-cdn.com/content/v1/660c7f5e3f51df1e6c0aab7c/dd91471a-e3f6-4173-ac19-a1634b71a7a7/GPG-Logo.png",
     "address": "5940 Macleod Trl SW #500, Calgary, AB T2H 2G4"
   },
   "openHouse": {
     "eventDate": "2025-06-28",
     "secondEventDate": "2025-06-29",
     "bundleItems": [
-      {"icon": "fas fa-link", "text": "Property Listing URL"},
-      {"icon": "fas fa-ruler-combined", "text": "Floor Plan"},
-      {"icon": "fas fa-image", "text": "Photos"},
-      {"icon": "fas fa-chart-bar", "text": "Recent Neighborhood Sales"},
-      {"icon": "fas fa-check-circle", "text": "On-Market Comparables"}
+      {
+        "icon": "fas fa-link",
+        "text": "Property Listing URL"
+      },
+      {
+        "icon": "fas fa-ruler-combined",
+        "text": "Floor Plan"
+      },
+      {
+        "icon": "fas fa-image",
+        "text": "Photos"
+      },
+      {
+        "icon": "fas fa-chart-bar",
+        "text": "Recent Neighborhood Sales"
+      },
+      {
+        "icon": "fas fa-check-circle",
+        "text": "On-Market Comparables"
+      }
     ]
   },
   "meta": {
@@ -75,36 +90,72 @@ const config = {
       "id": "agent_status",
       "questionText": "Are you currently exploring homes with a real estate agent?",
       "options": [
-        { "value": "committed", "text": "Yes, I'm committed to an agent." },
-        { "value": "not_committed", "text": "No, I'm not committed to an agent." },
-        { "value": "gathering_info", "text": "Just gathering information at this stage." }
+        {
+          "value": "committed",
+          "text": "Yes, I'm committed to an agent."
+        },
+        {
+          "value": "not_committed",
+          "text": "No, I'm not committed to an agent."
+        },
+        {
+          "value": "gathering_info",
+          "text": "Just gathering information at this stage."
+        }
       ]
     },
     {
       "id": "interest_level",
       "questionText": "How interested are you in properties like this?",
       "options": [
-        { "value": "very_interested", "text": "Very interested, actively looking." },
-        { "value": "somewhat_interested", "text": "Somewhat interested, keeping options open." },
-        { "value": "just_browsing", "text": "Just browsing for now." }
+        {
+          "value": "very_interested",
+          "text": "Very interested, actively looking."
+        },
+        {
+          "value": "somewhat_interested",
+          "text": "Somewhat interested, keeping options open."
+        },
+        {
+          "value": "just_browsing",
+          "text": "Just browsing for now."
+        }
       ]
     },
     {
       "id": "neighborhood_engagement",
       "questionText": "How do you usually enjoy the neighborhood?",
       "options": [
-        { "value": "resident_explorer", "text": "I live here and love exploring locally." },
-        { "value": "considering_move", "text": "I'm considering moving to this area." },
-        { "value": "just_visiting", "text": "Just visiting for the open house." }
+        {
+          "value": "resident_explorer",
+          "text": "I live here and love exploring locally."
+        },
+        {
+          "value": "considering_move",
+          "text": "I'm considering moving to this area."
+        },
+        {
+          "value": "just_visiting",
+          "text": "Just visiting for the open house."
+        }
       ]
     },
     {
       "id": "feature_attraction",
       "questionText": "What feature attracted you to this home?",
       "options": [
-        { "value": "design_layout", "text": "The design and layout." },
-        { "value": "location_neighborhood", "text": "The location and neighborhood." },
-        { "value": "home_price", "text": "The price of the home." }
+        {
+          "value": "design_layout",
+          "text": "The design and layout."
+        },
+        {
+          "value": "location_neighborhood",
+          "text": "The location and neighborhood."
+        },
+        {
+          "value": "home_price",
+          "text": "The price of the home."
+        }
       ]
     }
   ],
@@ -112,6 +163,8 @@ const config = {
     "repoId": "690f9705-0595-454a-9181-0886e65b4037",
     "repoName": "Open-House-546",
     "repoUrl": "https://github.com/arslvn93/Open-House-546",
-    "siteId": null
+    "siteId": null,
+    "netlifyUrl": "",
+    "tag": ""
   }
-}
+};
