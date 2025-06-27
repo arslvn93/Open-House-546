@@ -34,7 +34,7 @@ const config = {
     "photoUrl": "https://static.showit.co/400/C70VVDf3rNbAxlaUMkDQUw/264146/suemoodiephotography-calgarybrandphotography-amycaughlin-studiosession-34-edit.jpg",
     "social": {
       "facebook": "https://www.facebook.com/caughlinrealestate/",
-      "instagram": "https://instagram.com/alewi854",
+      "instagram": "https://www.instagram.com/caughlin.realestate/",
       "website": "https://caughlinrealestate.ca/"
     }
   },
